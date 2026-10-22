@@ -1,0 +1,77 @@
+.first-back {
+    background-image: url(icons_practice_module_3/background.jfif);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+.txt{
+    background-color:rgba(72, 131, 13, 0.8);
+    color:white;
+    width:60%;
+    margin:auto;
+    padding:20px;
+}
+
+/*Task-2*/
+
+.mainText{
+    font-family:"Segoe UI", Arial, sans-serif;
+    font-size: 16px;
+    line-height:1.6;
+}
+
+i{
+    font-size:12px;
+}
+
+
+
+h1, h2{
+    font-family:"Linux Libertine", Georgia, serif;
+}
+
+.box{
+    background-color: rgb(238,238,238);
+    border:1px solid rgb(190,190,190);
+    width:300px;
+    padding:12px;
+    font-size:12px;
+}
+
+.cntr{
+    text-align:center;
+    margin:5px;
+}
+
+.tb{
+    color:rgb(45, 60, 125);
+}
+
+/*Task-3*/
+iframe{
+    width:256px;
+    height:256px;
+    border:none;
+}
+
+img{
+    margin-top:5px;
+    border:1px solid rgba(0, 0, 0, 0.15);
+}
+
+.up{
+    margin-top: -5px;
+}
+
+.brd{
+    width:416px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    margin:auto;
+    text-align:center;
+}
+
+.brd p{
+    margin:10px;
+}
